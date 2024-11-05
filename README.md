@@ -10,65 +10,85 @@ The app is built using Flutter for the frontend, providing a smooth and responsi
 ![A](screenshots/A.PNG)
 
 Register View
+
 ![B](screenshots/B.PNG)
 
 Choose to register as service provider of a simple client.
+
 ![C](screenshots/C.PNG)
 
 Choose category if service provider box is checked.
+
 ![D](screenshots/D.PNG)
 
 Phone Verification View
+
 ![E](screenshots/E.PNG)
 
 Login View
+
 ![F](screenshots/F.PNG)
 
 Forgot Password View
+
 ![Forgot](screenshots/Forgot.PNG)
 
 Success View
+
 ![G](screenshots/G.PNG)
 
 Home View - Recommendations
+
 ![H](screenshots/H.PNG)
 
 Profile View
+
 ![Profile](screenshots/Profile.PNG)
 
 Home View - Services
+
 ![I](screenshots/I.PNG)
 
 Service Card View
+
 ![J](screenshots/J.PNG)
 
 Cart View
+
 ![K](screenshots/K.PNG)
 
 Booking Calendar View
+
 ![L](screenshots/L.PNG)
 
 Payment Form View
+
 ![M](screenshots/M.PNG)
 
 Payment Success View
+
 ![N](screenshots/N.PNG)
 
 Location Permission View
+
 ![O](screenshots/O.PNG)
 
 Track Service Provider View
+
 ![P](screenshots/P.PNG)
 
 # Service Provider Interface
 
 Service providers can view available jobs.
+
 ![S](screenshots/S.JPG)
 
 Service providers can accept or decline client service requests.
+
 ![Q](screenshots/Q.JPG)
 
 Service providers can receive notifications and track services they have completed and those still in progress.
+
 ![R](screenshots/R.PNG)
 
 # Installation
