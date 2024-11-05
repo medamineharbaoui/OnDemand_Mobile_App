@@ -26,13 +26,6 @@ User Registration & Authentication: Service providers register and log in to vie
 Accept Service Requests: Service providers can accept or decline client service requests.
 View Completed Services: Track services they have completed and those still in progress.
 
-# Admin Dashboard
-
-Account Management: Validate, ban, or manage service provider accounts.
-Category & Service Management: Add, modify, or remove categories and services.
-Complaint Handling: Address client complaints and view service history.
-Vehicle Tracking: Track real-time locations of company vehicles.
-
 # Installation
 
 To run this project locally, follow these steps:
@@ -40,10 +33,13 @@ To run this project locally, follow these steps:
 Clone the repository:
 git clone https://github.com/yourusername/service-reservation-app.git
 cd service-reservation-app
+
 Install dependencies: Make sure you have the rigth Flutter version installed (Dart SDK version: >=2.16.1 <3.0.0, which corresponds to Flutter 2.10.x or 2.12.x.). Then, run:
 flutter pub get
+
 Run the app: Use the following command to launch the app on your device or emulator:
 flutter run
+
 Build the app for release (optional):
 flutter build apk --release
 
@@ -51,28 +47,46 @@ flutter build apk --release
 
 Here are some screenshots showcasing the app's main features:
 
-![A](screenshots/A.PNG) / ![B](screenshots/B.PNG)
+![A](screenshots/A.PNG)
+
+![B](screenshots/B.PNG)
 
 ![C](screenshots/C.PNG)
+
 ![D](screenshots/D.PNG)
+
 ![E](screenshots/E.PNG)
+
 ![F](screenshots/F.PNG)
+
 ![G](screenshots/G.PNG)
+
 ![H](screenshots/H.PNG)
+
 ![I](screenshots/I.PNG)
+
 ![J](screenshots/J.PNG)
 
 ![K](screenshots/K.PNG)
+
 ![L](screenshots/L.PNG)
+
 ![M](screenshots/M.PNG)
+
 ![N](screenshots/N.PNG)
+
 ![O](screenshots/O.PNG)
+
 ![P](screenshots/P.PNG)
+
 ![Q](screenshots/Q.PNG)
+
 ![R](screenshots/R.PNG)
+
 ![S](screenshots/S.PNG)
 
 ![Profile](screenshots/Profile.PNG)
+
 ![Forgot](screenshots/Forgot.PNG)
 
 Client Interface
@@ -82,10 +96,11 @@ Service Booking Screen
 Service Provider Interface
 Provider Dashboard
 
-Admin Dashboard
-Admin Dashboard
-
-Contributing
-We welcome contributions! If you have ideas for improvements or have identified bugs, please open an issue or submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
 Thank you for checking out the Service Reservation App! We hope this README has been helpful in setting up and understanding the app's functionality.
+
+# Admin Dashboard
+
+Account Management: Validate, ban, or manage service provider accounts.
+Category & Service Management: Add, modify, or remove categories and services.
+Complaint Handling: Address client complaints and view service history.
+Vehicle Tracking: Track real-time locations of company vehicles.
