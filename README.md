@@ -1,30 +1,75 @@
-# homejek_app
-
-OnDemand Service Reservation App (in French)
-Welcome to the Service Reservation App, a Flutter-based mobile application that enables clients to book services and allows service providers to manage requests. This README will guide you through the app's setup, features, and functionality. Screenshots are included to give a visual overview of the app.
-
-# User-Friendliness: An intuitive and responsive interface design.
+# OnDemand Service Reservation App (in French)
 
 # Introduction
 
-This app provides a streamlined platform for clients to browse, book, and manage reservations for various services, while service providers can manage client requests and view completed tasks. It also includes an admin dashboard accessible via a web interface for managing categories, services, and complaints.
-
+This is a Flutter-based mobile application that provides a streamlined platform for clients to browse, book, and manage reservations for various services, while service providers can manage client requests and view completed tasks. It also includes an admin dashboard accessible via a web interface for managing categories, services, and complaints. (Check my other repos for the dashboard).
 The app is built using Flutter for the frontend, providing a smooth and responsive user experience across both iOS and Android devices.
-
-Features
 
 # Client Interface
 
-User Registration & Authentication: Allows clients to sign up and log in to access services.
-Manage Reservations: Clients can book, view, and cancel reservations.
-Payment Integration: Secure payments for confirmed reservations.
-Complaint Submission: Clients can submit complaints directly to admins.
+![A](screenshots/A.PNG)
+
+Register View
+![B](screenshots/B.PNG)
+
+Choose to register as service provider of a simple client.
+![C](screenshots/C.PNG)
+
+Choose category if service provider box is checked.
+![D](screenshots/D.PNG)
+
+Phone Verification View
+![E](screenshots/E.PNG)
+
+Login View
+![F](screenshots/F.PNG)
+
+Forgot Password View
+![Forgot](screenshots/Forgot.PNG)
+
+Success View
+![G](screenshots/G.PNG)
+
+Home View - Recommendations
+![H](screenshots/H.PNG)
+
+Profile View
+![Profile](screenshots/Profile.PNG)
+
+Home View - Services
+![I](screenshots/I.PNG)
+
+Service Card View
+![J](screenshots/J.PNG)
+
+Cart View
+![K](screenshots/K.PNG)
+
+Booking Calendar View
+![L](screenshots/L.PNG)
+
+Payment Form View
+![M](screenshots/M.PNG)
+
+Payment Success View
+![N](screenshots/N.PNG)
+
+Location Permission View
+![O](screenshots/O.PNG)
+
+Track Service Provider View
+![P](screenshots/P.PNG)
 
 # Service Provider Interface
 
-User Registration & Authentication: Service providers register and log in to view available jobs.
-Accept Service Requests: Service providers can accept or decline client service requests.
-View Completed Services: Track services they have completed and those still in progress.
+Service providers can view available jobs.
+![S](screenshots/S.JPG)
+
+Service providers can accept or decline client service requests.
+![Q](screenshots/Q.JPG)
+
+Service providers can receive notifications and track services they have completed and those still in progress.
+![R](screenshots/R.PNG)
 
 # Installation
 
@@ -43,64 +88,6 @@ flutter run
 Build the app for release (optional):
 flutter build apk --release
 
-# Screenshots
-
-Here are some screenshots showcasing the app's main features:
-
-![A](screenshots/A.PNG)
-
-![B](screenshots/B.PNG)
-
-![C](screenshots/C.PNG)
-
-![D](screenshots/D.PNG)
-
-![E](screenshots/E.PNG)
-
-![F](screenshots/F.PNG)
-
-![G](screenshots/G.PNG)
-
-![H](screenshots/H.PNG)
-
-![I](screenshots/I.PNG)
-
-![J](screenshots/J.PNG)
-
-![K](screenshots/K.PNG)
-
-![L](screenshots/L.PNG)
-
-![M](screenshots/M.PNG)
-
-![N](screenshots/N.PNG)
-
-![O](screenshots/O.PNG)
-
-![P](screenshots/P.PNG)
-
-![Q](screenshots/Q.JPG)
-
-![R](screenshots/R.PNG)
-
-![S](screenshots/S.JPG)
-
-![Profile](screenshots/Profile.PNG)
-
-![Forgot](screenshots/Forgot.PNG)
-
-Client Interface
-Login View
-Client Home Screen
-Service Booking Screen
-Service Provider Interface
-Provider Dashboard
+# Conclusion
 
 Thank you for checking out the Service Reservation App! We hope this README has been helpful in setting up and understanding the app's functionality.
-
-# Admin Dashboard
-
-Account Management: Validate, ban, or manage service provider accounts.
-Category & Service Management: Add, modify, or remove categories and services.
-Complaint Handling: Address client complaints and view service history.
-Vehicle Tracking: Track real-time locations of company vehicles.
