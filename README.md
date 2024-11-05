@@ -79,11 +79,11 @@ Here are some screenshots showcasing the app's main features:
 
 ![P](screenshots/P.PNG)
 
-![Q](screenshots/Q.PNG)
+![Q](screenshots/Q.JPG)
 
 ![R](screenshots/R.PNG)
 
-![S](screenshots/S.PNG)
+![S](screenshots/S.JPG)
 
 ![Profile](screenshots/Profile.PNG)
 
