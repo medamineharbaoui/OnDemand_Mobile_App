@@ -51,7 +51,7 @@ flutter build apk --release
 
 Here are some screenshots showcasing the app's main features:
 
-![A](screenshots/A.png)
+![A](screenshots/A.PNG)
 ![B](screenshots/B.png)
 ![C](screenshots/C.png)
 ![D](screenshots/D.png)
