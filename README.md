@@ -51,29 +51,29 @@ flutter build apk --release
 
 Here are some screenshots showcasing the app's main features:
 
-![A](screenshots/A.PNG)
-![B](screenshots/B.png)
-![C](screenshots/C.png)
-![D](screenshots/D.png)
-![E](screenshots/E.png)
-![F](screenshots/F.png)
-![G](screenshots/G.png)
-![H](screenshots/H.png)
-![I](screenshots/I.png)
-![J](screenshots/J.png)
+![A](screenshots/A.PNG) / ![B](screenshots/B.PNG)
 
-![K](screenshots/K.png)
-![L](screenshots/L.png)
-![M](screenshots/M.png)
-![N](screenshots/N.png)
-![O](screenshots/O.png)
-![P](screenshots/P.png)
-![Q](screenshots/Q.png)
-![R](screenshots/R.png)
-![S](screenshots/S.png)
+![C](screenshots/C.PNG)
+![D](screenshots/D.PNG)
+![E](screenshots/E.PNG)
+![F](screenshots/F.PNG)
+![G](screenshots/G.PNG)
+![H](screenshots/H.PNG)
+![I](screenshots/I.PNG)
+![J](screenshots/J.PNG)
 
-![Profile](screenshots/Profile.png)
-![Forgot](screenshots/Forgot.png)
+![K](screenshots/K.PNG)
+![L](screenshots/L.PNG)
+![M](screenshots/M.PNG)
+![N](screenshots/N.PNG)
+![O](screenshots/O.PNG)
+![P](screenshots/P.PNG)
+![Q](screenshots/Q.PNG)
+![R](screenshots/R.PNG)
+![S](screenshots/S.PNG)
+
+![Profile](screenshots/Profile.PNG)
+![Forgot](screenshots/Forgot.PNG)
 
 Client Interface
 Login View
