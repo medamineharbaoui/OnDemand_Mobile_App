@@ -96,7 +96,7 @@ Service providers can receive notifications and track services they have complet
 To run this project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/yourusername/service-reservation-app.git
+git clone https://github.com/medamineharbaoui/OnDemand_Mobile_App.git
 cd service-reservation-app
 
 Install dependencies: Make sure you have the rigth Flutter version installed (Dart SDK version: >=2.16.1 <3.0.0, which corresponds to Flutter 2.10.x or 2.12.x.). Then, run:
